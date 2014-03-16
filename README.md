@@ -5,6 +5,14 @@ SPHjs - Fluid/Water simulation is JavaScript.
 Check the live version here: http://jsexperiments.herokuapp.com/sph/
 
 
+## Getting started
+* Clone or Download the repo.
+* Run the index.html through any webserver. Due to browser's security problems.
+* Modify, as you please. Do tell me what you come up with :)
+* If you can make it more efficient and fast, I would be happy to add your code here.
+
+
+
 ## MIT Licence
 
 
@@ -26,10 +34,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-## Getting started
-* Clone or Download the repo.
-* Run the index.html through any webserver. Due to browser's security problems.
-* Modify, as you please. Do tell me what you come up with :)
-
