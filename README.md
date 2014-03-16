@@ -31,5 +31,5 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Getting started
 * Clone or Download the repo.
 * Run the index.html through any webserver. Due to browser's security problems.
-* Modify, 
+* Modify, as you please. Do tell me what you come up with :)
 
